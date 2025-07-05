@@ -2,6 +2,16 @@
 
 This project is part of our internship task to build a machine learning model that classifies user queries into specific e-commerce intents. The system supports multiple languages (English, Hindi, and Spanish) and handles queries like order cancellation, address changes, and product requests.
 
+
+## 👥 Team Members
+
+| Name           | Role                                 |
+|----------------|--------------------------------------|
+| Rohit          | Preprocessing, Evaluation            |
+| Qudsiya        | Dataset Creation, Research           |
+| Pratham        | Data Cleaning, Balancing             |
+
+
 ## 📌 Objective
 
 Automatically classify customer support sentences into one of the following e-commerce intents:
